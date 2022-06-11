@@ -35,10 +35,10 @@
 //   alert("opss")
 // }
 
-let a = prompt("What Your Name");
-//  let b = prompt(age);
+// let a = prompt("What Your Name");
+// //  let b = prompt(age);
 
-document.write(a);
-// document.write(b);
+// document.write(a);
+// // document.write(b);
 
 
